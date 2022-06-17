@@ -323,10 +323,48 @@ h3{
     width:40%;
     margin-left: 10%;
     margin-top: 2%;
-
 }
-.work-desc{
-    width: 50%;
-    height: 40%;
-    background-color: aqua;
+.team{
+    display: flex;
+    gap: 5em;
+}
+.doc1 img{
+    width: 140%;
+    margin-left: 120%;
+}
+.doc2 img{
+    width: 70%;
+    height: 65%;
+    margin-left: 70%;
+}
+.doc3 img{
+    width: 35%;
+    height: 65%;
+    margin-left: 30%;
+}
+p{
+    font-size: 120%;
+    color: rgb(91, 91, 110);
+}
+li{
+    color: rgb(86, 86, 102);
+    list-style-type: none;
+    margin-top: 5%;
+}
+.foot{
+    display: flex;
+    gap: 10em;
+    background-color: rgb(170, 185, 185);
+    color: rgb(229, 8, 236);
+    margin-top: 5%;
+}
+.fservice{
+    margin-left: 25%;
+    padding-bottom: 2%;
+}
+h6{
+    font-size: 110%;
+}
+#topi{
+    font-weight: bolder;
 }
