@@ -1,0 +1,25 @@
+.container{
+    background-color: rgb(228, 232, 235);
+}
+li{
+    color: rgb(86, 86, 102);
+    list-style-type: none;
+    margin-top: 5%;
+}
+.foot{
+    display: flex;
+    gap: 10em;
+    background-color: rgb(170, 185, 185);
+    color: rgb(229, 8, 236);
+    margin-top: 1%;
+}
+.fservice{
+    margin-left: 25%;
+    padding-bottom: 2%;
+}
+h6{
+    font-size: 110%;
+}
+#topi{
+    font-weight: bolder;
+}

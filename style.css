@@ -9,6 +9,7 @@ ul{
     margin-left: 35%;
     padding-top: 3%;
     padding-bottom: 5%;
+    position:static;
 }
 ul :hover{
     background-color: grey;
@@ -259,11 +260,13 @@ h3{
 .service3 img{
   margin-bottom: 90%;
   border-radius: 10%;
+
 } 
 .emergencies{
     width: 30%;
     background-color: rgb(242, 248, 248);
     border-radius: 10%;
+    margin-bottom: 4%;
 }
 .emergencies img{
     width: 100%;
@@ -273,6 +276,7 @@ h3{
     width: 30%;
     background-color: rgb(242, 248, 248);
     border-radius: 10%;
+    margin-bottom: 4%;
 }
 .cleaning img{
     width: 100%;
@@ -282,6 +286,7 @@ h3{
     width: 30%;
     background-color:  rgb(242, 248, 248);
     border-radius: 10%;
+    margin-bottom: 4%;
 }
 .replacements img{
     width: 100%;
@@ -367,4 +372,128 @@ h6{
 }
 #topi{
     font-weight: bolder;
+}
+.container2{
+    background-color:rgb(241, 247, 248);  
+}
+#head2{
+    font-size: 40px;
+    color: black;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    padding-top: 120px;
+
+}
+#mini-header{
+    margin-left: 700px;
+    margin-top: -160px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color:rgb(78, 81, 100)
+}
+.column-1{
+    display: flex;
+}
+
+#airplay{
+    display: inline-block;  
+    margin-left: 20px;
+    background-color: white; 
+    padding: 20px;
+   border-radius: 30px;
+   background-color: rgb(233,250,252);
+   height: 8px;
+   margin-top: 40px;
+}
+
+#expl-title{
+   margin-left: 25px;
+   font-size: 18px;
+   padding-top: 10px;
+}
+#expl{
+    margin-left: 20px;
+    padding-top: 7px;
+    color: rgb(163,166,187);
+}                            
+
+.column-2{
+    display: flex;    
+}
+.services4{
+    width: 270px;
+    height: 250px;
+    background-color: white;
+    margin-left: 90px;
+    margin-top: 100px;
+    border-radius: 5px;
+}
+
+.services5{
+    width: 270px;
+    height: 250px;
+    background-color: white;
+    margin-left: 90px;
+    margin-top: 100px;
+    border-radius: 5px;
+}
+
+.services6{
+    width: 270px;
+    height: 250px;
+    background-color: white;
+    margin-left: 90px;
+    margin-top: 100px;
+    border-radius: 5px;
+} 
+.doctors{
+    display: flex;
+
+} 
+.firstbox{
+    width: 980px;
+    height: 160px;
+    background-color: rgb(197, 204, 204);
+    margin-left: 80px; 
+    margin-top: 180px;
+    border-radius: 10px;
+    margin-right: 2px;
+    padding-top: 180px;
+    margin-bottom: 130px;
+}
+.secondbox{
+width: 800px;
+height: 80px;
+background-color: white;
+margin-left: 90px; 
+border-radius: 10px;
+margin-top: 40px;
+
+
+}
+.thirdbox{
+width: 170px;
+height: 70px;
+background-color: rgb(69,161,171);
+margin-left: 624px; 
+border-radius: 10px;
+border-style: none;
+margin-top: -49px;
+}
+#subscribe{
+color: white;
+text-align: center;
+padding-top: 22px;
+}
+#email{
+padding-left: 70px;
+font-size: 20px;
+padding-top: 30px;
+color:rgb(146, 149, 165);
+} 
+#blog{
+margin-left: 300px;
+margin-top: -90px;
+font-size: 40px;
+
 }
