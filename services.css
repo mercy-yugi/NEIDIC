@@ -1,6 +1,167 @@
+#heading{
+    color: rgb(109, 15, 233);
+    text-align: center;
+    font-size: 405%;
+    font-weight: bolder;
+}
+.wallpaper2{
+    opacity: 0.5;
+}
+.wallpaper2 img{
+    width: 100%;
+    margin-top: -28%;
+    height: -30%;
+}
+.services1{
+    display: flex;
+    gap: 2em;
+    margin-left: 8%;
+} 
+.services1 img{
+  margin-bottom: 30%;
+  border-radius: 10%;
+} 
+.toothwhitening{
+    width: 30%;
+    background-color: rgb(242, 248, 248);
+    border-radius: 10%;
+}
+.toothwhitening img{
+    width: 100%;
+    height: 60%;
+}
+.dentalimplants{
+    width: 30%;
+    background-color: rgb(242, 248, 248);
+    border-radius: 10%;
+}
+.dentalimplants img{
+    width: 100%;
+    height: 60%;
+}
+.rootcanal{
+    width: 30%;
+    background-color: rgb(242, 248, 248);
+    border-radius: 10%;
+}
+.rootcanal img{
+    width: 100%;
+    height: 60%;
+}
+.services2{
+    display: flex;
+    gap: 2em;
+    margin-left: 8%;
+    margin-top: 4%;
+} 
+.services2 img{
+  margin-bottom: 50%;
+  border-radius: 10%;
+} 
+.braces{
+    width: 30%;
+    background-color:  rgb(242, 248, 248);
+    border-radius: 10%;
+}
+.braces img{
+    width: 100%;
+    height: 55%;
+}
+.consultation{
+    width: 30%;
+    background-color:  rgb(242, 248, 248);
+    border-radius: 10%;
+}
+.consultation img{
+    width: 100%;
+    height: 55%;
+}
+.xrays{
+    width: 30%;
+    background-color:  rgb(242, 248, 248);
+    border-radius: 10%;
+}
+.xrays img{
+    width: 100%;
+    height: 55%;
+}
+.service3{
+    display: flex;
+    gap: 2em;
+    margin-left: 8%;
+    margin-top: 4%;
+} 
+.service3 img{
+  margin-bottom: 90%;
+  border-radius: 10%;
+
+} 
+.emergencies{
+    width: 30%;
+    background-color: rgb(242, 248, 248);
+    border-radius: 10%;
+    margin-bottom: 4%;
+}
+.emergencies img{
+    width: 100%;
+    height: 55%;
+}
+.cleaning{
+    width: 30%;
+    background-color: rgb(242, 248, 248);
+    border-radius: 10%;
+    margin-bottom: 4%;
+}
+.cleaning img{
+    width: 100%;
+    height: 55%;
+}
+.replacements{
+    width: 30%;
+    background-color:  rgb(242, 248, 248);
+    border-radius: 10%;
+    margin-bottom: 4%;
+}
+.replacements img{
+    width: 100%;
+    height: 55%;
+}
+h3{
+    color: rgb(62, 62, 85);
+    margin-top: -30%;
+    margin-left: 4%;
+}
+.services2 h3{
+    color: rgb(62, 62, 85);
+    margin-top: -50%;
+    margin-left: 4%; 
+    margin-bottom: 40%;
+}
+.service3 h3{
+    color: rgb(62, 62, 85);
+    margin-top: -90%;
+    margin-left: 4%;
+    margin-bottom: 40%;
+}
+#explain{
+    margin-left: 4%;
+    color: rgb(85, 91, 95);
+}
+.services2 #explain{
+    margin-left: 4%;
+    color: rgb(85, 91, 95);
+    margin-top: -36%;
+}
+.service3 #explain{
+    margin-left: 4%;
+    color: rgb(85, 91, 95);
+    margin-top: -36%;
+   margin-bottom: 6%;
+}
 .container{
     background-color: rgb(228, 232, 235);
 }
+
 li{
     color: rgb(86, 86, 102);
     list-style-type: none;
