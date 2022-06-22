@@ -183,21 +183,24 @@ button{
     margin-top: 8%;
 }
 .quickintro{
-    margin-top: 3%;
     margin: 5%;
     width: auto;
     height: 800px;
     background-color: rgb(198, 213, 216);
     border-radius: 100px 2px 100px;
+    display: flex;
 }
 .dental{
     background-color: rgb(198, 213, 216);
+    margin-right: 10%;
+    
+
 }
 #kichwa{
     font-weight: bolder;
     font-size: x-large;
     margin-left: 4%;
-    margin-top: 10%;
+    padding-top: -50%;
     background-color: rgb(198, 213, 216);
 }
 #parag{
