@@ -176,39 +176,53 @@ button{
     /* padding-top: 4%; */
 }
 #video{
-    margin-left: 50%;
-    width: auto;
-    border-radius: 20px 20px;
-    margin-right: 2%;
-    margin-top: 8%;
-}
-.quickintro{
-    margin: 5%;
-    width: auto;
-    height: 800px;
-    background-color: rgb(198, 213, 216);
-    border-radius: 100px 2px 100px;
-    display: flex;
+    margin-top: 3%;
+    margin-left: 2%;
+    border-radius: 50px 50px;
+    margin-bottom: 4%;
 }
 .dental{
-    background-color: rgb(198, 213, 216);
     margin-right: 10%;
-    
-
 }
 #kichwa{
     font-weight: bolder;
     font-size: x-large;
-    margin-left: 4%;
+    text-align: center;
     padding-top: -50%;
-    background-color: rgb(198, 213, 216);
 }
 #parag{
-    background-color: rgb(198, 213, 216);
+    text-align: center;
+    margin-left: 3%;
+    color: rgb(79, 79, 88);
+    font-size: large;
+    margin-top: 2%;
 }
-.dental ul {
-    background-color: rgb(198, 213, 216);
+.foot{
+    display: flex;
+    gap: 10em;
+    background-color: rgb(170, 185, 185);
+    color: rgb(229, 8, 236);
+    margin-top: 1%;
 }
-.dental li{
-    background-color: rgb(198, 213, 216);
+.fservice{
+    margin-left: 25%;
+    padding-bottom: 2%;
+    background-color: rgb(170, 185, 185);
+}
+h6{
+    font-size: 110%;
+    background-color: rgb(170, 185, 185);
+}
+#topi{
+    font-weight: bolder;
+    background-color: rgb(170, 185, 185);
+}
+.AboutUs{
+    background-color: rgb(170, 185, 185);
+}
+.FindUs{
+    background-color: rgb(170, 185, 185);
+}
+footer li{
+    background-color: rgb(170, 185, 185);
 }

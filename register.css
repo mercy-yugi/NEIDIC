@@ -9,8 +9,7 @@ body{
          height: auto;
         width: auto;
         background-size: cover;
-        padding: 100px 150px 100px 150px;
-        margin: auto; 
+        margin-left: 6.5%;
     }
     .Firstbox{
         background-color:#6f8a85;
